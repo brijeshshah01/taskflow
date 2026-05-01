@@ -2,11 +2,10 @@
 
 A full-stack team task management application with role-based access control, built with Node.js/Express backend and React frontend.
 
-![TaskFlow Screenshot](https://placeholder.com/screenshot)
 
 ## 🚀 Live Demo
 
-- **Live URL**: [Deploy to Railway first]
+- **Live URL**: https://taskflow-production-2a5b.up.railway.app
 - **Demo Admin**: `admin@demo.com` / `password123`
 - **Demo Member**: `sam@demo.com` / `password123`
 
